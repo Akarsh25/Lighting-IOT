@@ -2,7 +2,7 @@
 
 This project was done in March 2017.
 
-This contains part of the project that is code snippets on lighting device and RaspberryPi(gateway).
+This contains part of the project that is code snippets written for lighting device and RaspberryPi(gateway).
 LightDevice_1.py is a file ececuted by light device for registeration when its newly added in the network.
 LightSpecification_1.py is run by RaspberryPi(gateway) to write down the details of the light and its status
 in its database.
