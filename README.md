@@ -8,4 +8,4 @@ LightSpecification_1.py is run by RaspberryPi(gateway) to write down the details
 in its database.
 GWtoCloudJsonTest.py is run by RaspberryPi to send the light status details to the cloud.
 
-The file format used for traserring data is JSON, publishing and subscribing data is done through mosquitto mqtt broker.
+The file format used for transferring data is JSON, publishing and subscribing data is done through mosquitto mqtt broker.
